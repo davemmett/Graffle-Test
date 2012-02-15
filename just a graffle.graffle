@@ -1051,7 +1051,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{243.425, 133.575}, {51.737301, 51.737301}}</string>
+			<string>{{244.85001, 260.15002}, {51.737301, 51.737301}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -1101,7 +1101,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{117.1416, 133.575}, {51.737301, 51.737301}}</string>
+			<string>{{195.2832, 47.367691}, {51.737301, 51.737301}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -1866,7 +1866,11 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
+<<<<<<< HEAD
 	<string>2012-02-15 05:06:24 +0000</string>
+=======
+	<string>2012-02-15 17:19:36 +0000</string>
+>>>>>>> moved stuff around
 	<key>Modifier</key>
 	<string>David Emmett</string>
 	<key>NotesVisible</key>
