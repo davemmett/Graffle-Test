@@ -463,6 +463,70 @@
 	<key>GraphicsList</key>
 	<array>
 		<dict>
+			<key>Bounds</key>
+			<string>{{142, 476.81006}, {242.425, 18}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>HFlip</key>
+			<string>YES</string>
+			<key>ID</key>
+			<integer>36462</integer>
+			<key>Shape</key>
+			<string>AdjustableArrow</string>
+			<key>ShapeData</key>
+			<dict>
+				<key>width</key>
+				<real>18</real>
+			</dict>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.998734</string>
+						<key>g</key>
+						<string>0.800366</string>
+						<key>r</key>
+						<string>0.398474</string>
+					</dict>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Cap</key>
+					<integer>0</integer>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.6</string>
+						<key>g</key>
+						<string>0.6</string>
+						<key>r</key>
+						<string>0.6</string>
+					</dict>
+					<key>Draws</key>
+					<string>NO</string>
+					<key>Join</key>
+					<integer>0</integer>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextPlacement</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
 			<key>Class</key>
 			<string>Group</string>
 			<key>Graphics</key>
@@ -796,92 +860,6 @@
 					<string>0</string>
 				</dict>
 			</dict>
-		</dict>
-		<dict>
-			<key>Bounds</key>
-			<string>{{185.10001, 206}, {110.325, 112}}</string>
-			<key>Class</key>
-			<string>ShapedGraphic</string>
-			<key>ID</key>
-			<integer>3319</integer>
-			<key>Shape</key>
-			<string>Bezier</string>
-			<key>ShapeData</key>
-			<dict>
-				<key>UnitPoints</key>
-				<array>
-					<string>{-0.49999699, -0.47552699}</string>
-					<string>{-0.49999699, -0.47552699}</string>
-					<string>{-0.217244, -0.53235698}</string>
-					<string>{0.0034465799, -0.47334501}</string>
-					<string>{0.22413599, -0.41432399}</string>
-					<string>{0.5, -0.46897}</string>
-					<string>{0.5, -0.46897}</string>
-					<string>{0.5, -0.46897}</string>
-					<string>{0.5, 0.47746599}</string>
-					<string>{0.5, 0.47746599}</string>
-					<string>{0.5, 0.47746599}</string>
-					<string>{0.220696, 0.52992398}</string>
-					<string>{-0.0137908, 0.47527701}</string>
-					<string>{-0.248273, 0.42063099}</string>
-					<string>{-0.5, 0.470907}</string>
-					<string>{-0.5, 0.470907}</string>
-					<string>{-0.5, 0.470907}</string>
-					<string>{-0.5, -0.47553101}</string>
-					<string>{-0.5, -0.47553101}</string>
-					<string>{-0.5, -0.47553101}</string>
-					<string>{-0.49999699, -0.47552699}</string>
-				</array>
-			</dict>
-			<key>Style</key>
-			<dict>
-				<key>fill</key>
-				<dict>
-					<key>Color</key>
-					<dict>
-						<key>b</key>
-						<string>0.901961</string>
-						<key>g</key>
-						<string>0.901961</string>
-						<key>r</key>
-						<string>0.901961</string>
-					</dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-					<key>ShadowVector</key>
-					<string>{0, -4}</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Color</key>
-					<dict>
-						<key>b</key>
-						<string>0.6</string>
-						<key>g</key>
-						<string>0.6</string>
-						<key>r</key>
-						<string>0.6</string>
-					</dict>
-					<key>PointAtLeast</key>
-					<true/>
-				</dict>
-			</dict>
-			<key>Text</key>
-			<dict>
-				<key>Pad</key>
-				<integer>0</integer>
-				<key>VerticalPad</key>
-				<integer>0</integer>
-			</dict>
-			<key>TextPlacement</key>
-			<integer>0</integer>
-			<key>Wrap</key>
-			<string>NO</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -1888,7 +1866,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-02-15 01:04:16 +0000</string>
+	<string>2012-02-15 01:07:24 +0000</string>
 	<key>Modifier</key>
 	<string>Dave Emmett</string>
 	<key>NotesVisible</key>
